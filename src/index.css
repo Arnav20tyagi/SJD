@@ -1,0 +1,12 @@
+  @font-face {
+    font-family: "windhavi";
+    src: url("/fonts/Windhavi.ttf") format("truetype"); /* adjust if using otf/woff */
+  }
+  @font-face {
+    font-family: "hindi";
+    src: url("/fonts/hindi.ttf") format("truetype"); /* adjust if using otf/woff */
+  }
+  @font-face {
+    font-family: "maharani-r";
+    src: url("/fonts/maharani-r.ttf") format("truetype"); /* adjust if using otf/woff */
+  }

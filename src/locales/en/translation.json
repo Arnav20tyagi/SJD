@@ -1,0 +1,372 @@
+{
+  "welcome": "Welcome",
+  "description": "This is an i18n example.",
+  "menu": {
+    "home": "Home",
+    "about": "About Us",
+    "donate": "Donate",
+    "contact": "Contact Us",
+    "events": "Events",
+    "rathaYatra": "Ratha Yatra",
+    "media": "Media"
+  },
+  "buttons": {
+    "learnMore": "Learn More",
+    "knowMore": "Know More",
+    "viewAllEvents": "View All Events"
+  },
+  "homePageBanner": [
+    {
+      "title": "Shri Jagannathji",
+      "subheading": "Sector 7, Udaipur"
+    },
+    {
+      "title": "Shri Jagannathji Dham",
+      "subheading": "Sector 7, Udaipur"
+    },
+    {
+      "title": "Shri Balramji",
+      "subheading": "Sector 7, Udaipur"
+    },
+    {
+      "title": "Shri Shubhadraji",
+      "subheading": "Sector 7, Udaipur"
+    }
+  ],
+  "homeHighlightsH": "Spirit of the Temple",
+  "homeHighlightsSh": "Discover how the sacred design, prayers, community, and service uplift the spirit",
+  "homeHighlights": [
+    {
+      "title": "Pavitra Vastukala",
+      "description": "Sacred architecture reflecting Vedic principles and spiritual geometry."
+    },
+    {
+      "title": "Nitya Aradhana",
+      "description": "Daily prayers, aartis and rituals offered with devotion and discipline."
+    },
+    {
+      "title": "Sangha Milan",
+      "description": "A welcoming spiritual community rooted in unity and service."
+    },
+    {
+      "title": "Seva Bhava",
+      "description": "Opportunities to serve the temple and society with devotion."
+    }
+  ],
+  "homeRYH": "Shri Jagannath Ratha Yatra",
+  "homeRYSh": "Join us in celebrating the grand chariot festival of Lord Jagannath",
+  "homeRYD": "Jagannath Ratha Yatra is one of the most revered and vibrant festivals in India. Celebrated with immense devotion, it marks the annual journey of Lord Jagannath along with His siblings Balabhadra and Subhadra from the main temple to the Gundicha temple. The highlight of the festival is the pulling of beautifully decorated wooden chariots by thousands of devotees with ropes and chants of 'Jai Jagannath!' echoing through the streets. \n\nThis sacred procession symbolizes unity, devotion, and the Lord’s love for all beings, transcending all boundaries. It is a spiritual and cultural celebration that brings people together in divine joy. Whether you're a pilgrim or a first-time visitor, witnessing Ratha Yatra is an unforgettable experience that touches the heart and uplifts the soul.",
+  "homeEventsH": "Upcoming Events",
+  "homeEventsSh": "Be a part of our upcoming spiritual and cultural gatherings",
+  "homeAboutH": "About Shri Jagannath Dham",
+  "homeAboutSh": "A Sacred Place of Peace and Devotion",
+  "homeAbout": "Shri Jagannath Dham is a sacred spiritual center located in Sector 7, Udaipur, Rajasthan. Rooted in the timeless traditions of Sanatan Dharma, the temple is dedicated to Lord Jagannath, along with Balabhadra, Subhadra, and Sudarshan. More than a place of worship, it is a vibrant hub for cultural celebrations, daily aartis, community gatherings, and spiritual learning. \n\nHere, devotion meets service — with opportunities for satsang, seva, and rituals that enrich the soul. Whether you seek peace, blessings, or a deeper connection to your roots, Shri Jagannath Dham welcomes everyone with open arms. The temple also preserves ancient Vedic practices, traditional art, and architecture, creating an atmosphere of divine presence. Come, be a part of this ever-growing spiritual family and experience the grace, warmth, and vibrant spirit of Lord Jagannath.",
+  "serviceH": "Temple Facilities & Services",
+  "serviceSh": "Explore prasadam, garden rentals, and other temple services for devotees and guests.",
+  "service": [
+    {
+      "title": "Prasadam Service",
+      "description": "Savor the sanctified meals offered daily after darshan. Group bookings available.",
+      "buttonText": "Enquire Now"
+    },
+    {
+      "title": "Garden Rental",
+      "description": "Book the serene temple garden for spiritual gatherings and family events.",
+      "buttonText": "Request Booking"
+    },
+    {
+      "title": "Other Enquiries",
+      "description": "Have questions about visiting, volunteering, or services? Reach out to us.",
+      "buttonText": "Contact Temple"
+    }
+  ],
+  "dailyEvents": [
+    {
+      "title": "Mangala Aarti",
+      "time": "5:30 AM",
+      "details": "Attend the auspicious Mangala Aarti to begin your day with divine blessings."
+    },
+    {
+      "title": "Darshan Closed for Shringar",
+      "time": "7:00 AM - 8:00 AM",
+      "details": "Darshan will remain closed during the adornment (Shringar) of the deities."
+    },
+    {
+      "title": "Shringar Darshan",
+      "time": "8:00 AM - 12:00 PM",
+      "details": "Witness the beautifully adorned deities during the Shringar Darshan."
+    },
+    {
+      "title": "Raj-Bhog Aarti",
+      "time": "12:00 PM - 12:30 PM",
+      "details": "Participate in the Raj-Bhog Aarti, followed by the divine food offering."
+    },
+    {
+      "title": "Evening Darshan",
+      "time": "4:00 PM - 10:00 PM",
+      "details": "Evening Darshan of the deities open for devotees."
+    },
+    {
+      "title": "Sandhya Aarti",
+      "time": "At Sunset",
+      "details": "Join the Sandhya Aarti during sunset for spiritual upliftment."
+    }
+  ],
+  "yearlyEvents": [
+    {
+      "title": "Shri Ram Navami",
+      "date": "March 27, 2026",
+      "thithi": "Chaitra Shukla Navami",
+      "details": "Celebration of Lord Rama’s birth. Navami tithi begins April 5 evening and spans into April 6."
+    },
+    {
+      "title": "Shri Hanuman Jayanti",
+      "date": "April 02, 2026",
+      "thithi": "Chaitra Purnima",
+      "details": "Marks the birth of Lord Hanuman, known for his strength, devotion, and courage."
+    },
+    {
+      "title": "Ganga Dashahara",
+      "date": "May 25, 2026",
+      "thithi": "Jyeshtha Shukla Dashami",
+      "details": "Celebrates the descent of the sacred Ganga River from heaven to Earth."
+    },
+    {
+      "title": "Snana Purnima",
+      "date": "June 11, 2025",
+      "thithi": "Jyeshtha Purnima",
+      "details": "Ritual bathing of deities before Ratha Yatra. Darshan remains closed on this day."
+    },
+    {
+      "title": "Shri Jagannath Darshan Resume",
+      "date": "June 27, 2025",
+      "thithi": "Ashadha Krishna Pratipada",
+      "details": "Darshan of Lord Jagannath resumes after the ritual bathing and rest period."
+    },
+    {
+      "title": "Shri Jagannath Ratha Yatra",
+      "date": "June 27, 2025",
+      "thithi": "Ashadha Shukla Dwitiya",
+      "details": "The grand procession of Lord Jagannath with his siblings in majestic chariots."
+    },
+    {
+      "title": "Shri Krishna Janmashtami",
+      "date": "August 15, 2025",
+      "thithi": "Bhadrapada Krishna Ashtami",
+      "details": "Celebrates the birth of Lord Krishna at midnight on the Ashtami tithi."
+    },
+    {
+      "title": "Shri Ganesh Chaturthi",
+      "date": "August 27, 2025",
+      "thithi": "Bhadrapada Shukla Chaturthi",
+      "details": "Festival honoring the birth of Lord Ganesha, remover of obstacles."
+    },
+    {
+      "title": "Jaljhoolni Phooldol Ekadashi",
+      "date": " September 03, 2025",
+      "thithi": "Bhadrapada Shukla Ekadashi",
+      "details": "Lord Krishna is taken on a palanquin procession with songs and flowers."
+    },
+    {
+      "title": "Ananta Chaturdashi",
+      "date": "September 06, 2025",
+      "thithi": "Bhadrapada Shukla Chaturdashi",
+      "details": "Dedicated to Lord Ananta (Vishnu); also marks the immersion of Ganesh idols."
+    },
+    {
+      "title": "Sharad Navratri Sthapana",
+      "date": "September 22, 2025",
+      "thithi": "Ashwin Shukla Pratipada",
+      "details": "First day of Navratri, initiating nine days of worship of Goddess Durga."
+    },
+    {
+      "title": "Durga Navami",
+      "date": "September 30, 2025",
+      "thithi": "Ashwin Shukla Navami",
+      "details": "Ninth day of Navratri, celebrating the power and victory of Goddess Durga."
+    },
+    {
+      "title": "Vijaya Dashami (Dussehra)",
+      "date": "October 02, 2025",
+      "thithi": "Ashwin Shukla Dashami",
+      "details": "Victory of good over evil, commemorating Rama’s triumph over Ravana."
+    },
+    {
+      "title": "Annakut/Govardhan Puja",
+      "date": "October 22, 2025",
+      "thithi": "Kartika Shukla Pratipada",
+      "details": "Offering a mountain of food to Lord Krishna symbolizing Govardhan worship."
+    },
+    {
+      "title": "Paush Bara Bhog",
+      "date": "January 02, 2026",
+      "thithi": "Paush Shukla Dwadashi",
+      "details": "Traditional offering of Bara (savory cakes) during the Paush month."
+    },
+    {
+      "title": "Shri Mahashivaratri",
+      "date": "February 15, 2026",
+      "thithi": "Phalguna Krishna Chaturdashi",
+      "details": "Night of great devotion to Lord Shiva with fasting and prayers."
+    },
+    {
+      "title": "Holika Dahan",
+      "date": "March 03, 2026",
+      "thithi": "Phalguna Purnima",
+      "details": "Symbolizes the victory of devotion over evil. Celebrated with bonfires."
+    }
+  ],
+  "rYHHeading": "Ratha Yatra Highlights",
+  "rYHSubheading": "A Divine Journey Filled with Devotion, Rituals & Joy",
+  "rathaYatraHighlight": [
+    {
+      "title": "Shringar Aarti",
+      "time": "1:00/1:30 PM",
+      "location": "Ambalika Builders, Reti Stand",
+      "details": "Witness the divine adornment of the Lord before the grand procession begins."
+    },
+    {
+      "title": "Maha Aarti",
+      "time": "7:30 PM",
+      "location": "National Misthan, Sector 4 Square",
+      "details": "Experience the vibrant energy and devotion during this powerful evening aarti."
+    },
+    {
+      "title": "Maha Aarti & Prasadam Distribution",
+      "time": "8:30 PM",
+      "location": "Jagannath Dham Temple, Sector 7",
+      "details": "Conclude the celebration with blessings and sacred offerings for all devotees."
+    }
+  ],
+  "rYSHeading": "Ratha Yatra Schedule",
+  "rYSSubheading": "A Sacred Journey from Morning Rituals to Evening Celebrations",
+  "rYSStartEnd": "Start: 10:00 AM | End: 8:30 PM",
+  "rYSStop": {
+    "jagannathDham": "Jagannath Dham Sector 7 Temple",
+    "jadawNursery": "Jadaw Nursery",
+    "nanduTravels": "In front of Nandu Travels & Cargo",
+    "savinaChauraha": "Savina Chauraha",
+    "fruitMarket": "Fruit & Vegetable Market",
+    "grainMarket2": "Grain Market (Gate No. 2)",
+    "grainMarket1": "Grain Market (Gate No. 1)",
+    "kisanBhavan": "Kisan Bhavan",
+    "retiStand": "Reti Stand",
+    "shringarAarti": "Shringar Aarti",
+    "bhilRanaChauraha": "Bhil Rana Chauraha",
+    "aavariMataTemple": "Aavari Mata Temple",
+    "policeLine": "Police Line",
+    "tekriChauraha": "Tekri Chauraha",
+    "radajiBavji": "Radaji Bavji",
+    "nagdaBhavanRoad": "Nagda Bhavan Road",
+    "vakalMataChauraha": "Vakal Mata Chauraha",
+    "guruVashishthChauraha": "Guru Vashishth Chauraha",
+    "shubhamFurniture": "Shubham Furniture",
+    "hindRajTiraha": "Hind Raj Tiraha",
+    "menariaGuestHouse": "Menaria Guest House",
+    "hiranMagriMainRoad": "Hiran Magri Main Road",
+    "dishaElectricals": "Disha Electricals",
+    "yogeshTyres": "Yogesh Tyres",
+    "guruNanakCollegeGate": "Guru Nanak Girls College Main Gate",
+    "oldSatelliteRoad": "Old Satellite Road",
+    "priyaishiBoutique": "Priyaishi Boutique",
+    "mangleshwarTemple": "From Mangleshwar Mahadev Temple",
+    "mahaAarti": "Maha Aarti",
+    "jhulelalBhavan": "Jhulelal Bhavan",
+    "narayanSeva": "Narayan Seva Sansthan",
+    "aryaSamajTemple": "In front of Arya Samaj Temple",
+    "prabhatNagarRoad": "Prabhat Nagar Road",
+    "ssCoaching": "SS Coaching",
+    "vishalStore": "Vishal General Store",
+    "satelliteHospital": "Satellite Hospital",
+    "siddhiVinayakHospital": "Siddhi Vinayak Hospital",
+    "sabziMandi": "From Vegetable Market",
+    "policeStation": "Police Station",
+    "viaJadawNursery": "Via Jadaw Nursery",
+    "backToJagannath": "Back to Jagannath Dham",
+    "finalMahaAarti": "Maha Aarti & Prasad Distribution"
+  },
+  "rYDHeading": "The Sacred Story Behind the Ratha Yatra",
+  "rYDPlace": "📍Shri Jagannath Dham Sector 7",
+  "rYDTime": "🕒 10:00 AM to 8:30 PM",
+  "rYDDate": "📅 27 June 2025",
+  "rathaYatraProcess": "According to tradition, the grand bathing (Snana Yatra) of Lord Jagannath is performed on the full moon day of the month of Jyestha (Jyestha Shukla Purnima). On this day, all four deities (Balabhadra, Subhadra, Jagannath, and Sudarshan) descend from the Ratna Singhasan to the bathing altar and are bathed with 108 golden pots of sanctified water. After this ritual, they take on the form of Ganesha. From that day onward, the deities are considered unwell and do not accept regular food offerings but only medicinal offerings for 15 days. During this period, the temple remains closed. On Ashadha Shukla Pratipada, the deities reappear in their youthful form known as Nava Yauvana Darshan. On the second day (Dwitiya), they are considered healed and proceed to the Gundicha temple on chariots, returning on Dashami. The Ratha Yatra begins with 'Chera Pahara' (sweeping of the chariot platform), symbolizing the purification of body and mind before the Supreme Lord.",
+  "rYDSection1": "Adi Shankaracharya unified the cultural essence of Bharat by promoting the significance of the four Dhams located in the four directions: Badrinath in the north, Dwarka in the west, Puri in the east, and Rameswaram in the south. It is believed that Lord Vishnu sleeps in Badrinath, bathes in Dwarka, eats in Puri, and meditates in Rameswaram. In alignment with this belief, Lord Jagannath resides in Puri, also known as the Purushottam Kshetra, where He is offered special offerings like rice and lentils (dal-bhat).",
+  "rYDSection2": "In this sacred Purushottam Kshetra, the temple premises also contain the Rohini Kunda and the Kalpavata (sacred banyan tree). It is believed that after Lord Krishna departed from this world, around 1600 years before the Common Era, worship of Lord Vishnu began near these sacred sites in the form of Neelamadhava by the Sabara tribe. Vishwavasu, a tribal devotee, enshrined the wooden idol of Neelamadhava atop the Nilachal hills. The fame of Neelamadhava spread across India. Around the same time, King Indradyumna ruled in Avanti (present-day Malwa).",
+  "rYDSection3": "Once, while performing worship, King Indradyumna received divine inspiration to seek a vision of Neelamadhava. Lacking precise information, he sent his Brahmin minister Vidyapati to search for it. Upon reaching Purushottam Kshetra, Vidyapati was not given the truth, as the Sabara tribe kept Neelamadhava's whereabouts a secret. Vidyapati then married Lalita, daughter of the tribal king Vishwavasu, and with her help learned the location. When King Indradyumna finally arrived, the idol had mysteriously vanished.",
+  "rYDSection4": "King Indradyumna then performed many rituals and sacrifices. Pleased with his devotion, Lord Vishnu appeared in a dream and said He would now manifest not as Neelamadhava but as a divine wooden log (Darubrahma) on the seashore, from which idols must be carved. The next day, a sacred log was found. However, it was so hard that no one could carve it. Then Vishwakarma appeared and agreed to craft the idols in 21 days with the condition that no one would disturb him. A special temple area named 'Gundicha Mandap' was constructed.",
+  "rYDSection5": "Fourteen days into the carving process, sounds from within ceased. Curious, Queen Gundicha opened the doors. As a result, the idols were left incomplete and Vishwakarma disappeared. A divine voice declared that these incomplete idols would be worshipped. These idols notably lack ears, hands, and feet—yet it is said that Lord Jagannath is omnipresent without feet, hears all without ears, and blesses His devotees without hands. His large, round eyes (chakshu) are especially enchanting to devotees.",
+  "historyHeading": "History of Temple",
+  "historySubheading": "From Foundation to Faith – The Temple’s Glorious Journey",
+  "aboutHistory": {
+    "section1": "Gupteshwarnagar Vikas Samiti, located in Sector-7, Hiran Magri, Udaipur, is a registered organization. It was established in the year 1997–98, during the early development of the Gupteshwarnagar colony. At that time, the number of residents was limited and unorganized, and people were compelled to live in an environment of insecurity. Hence, organizing the residents and striving for planned development was the need of the hour.",
+    "section2": "Social and religious festivals play a vital role in uniting the community. With this belief and public support, temples of Sapteshwar Mahadev, Ambamata, and Hanumanji were built in 1996. Additionally, the Shiv Shakti Mandir Committee was formed to manage the temple premises through community support and to begin organizing events. The Gupteshwarnagar Vikas Samiti was officially registered on 06.01.1998.",
+    "section3": "The establishment of Bhagwan Jagannath Dham took place on 29 April 2007. From the beginning, the local residents along with Utkal Samaj (registered as Utkal Samaj Samiti) have provided significant support in its foundation and operations. Recognizing the divine glory of Lord Jagannath, the Shiv Shakti Mandir Committee was renamed to 'Bhagwan Jagannath Dham Shiv Shakti Mandir Committee', which now operates as a branch of the Gupteshwarnagar Vikas Samiti. The temple is located at the center of the Gupteshwarnagar colony and has become a major hub for religious faith and tourism for both locals and visitors. The development of the premises and garden has been greatly supported by the Urban Improvement Trust, Municipal Council, Housing Board, and SBBJ Bank."
+  },
+  "descriptionHeading": "Temple Idols",
+  "descriptionSubheading": "An overview of the divine idols enshrined at Bhagwan Jagannath Dham and their sacred worship traditions.",
+  "templeDescription": "At the Bhagwan Jagannath Dham Temple, the wooden (Mahadaru) idols of Lord Jagannath, Balabhadra, Subhadra, and Sudarshan—sourced from Puri (Odisha)—are enshrined. Alongside them are the incarnations of Varaha, Narasimha, Vamana, the sacred Neel Chakra, the gatekeepers Jaya and Vijaya, the Navagrahas, and Garuda. The temple follows the traditional rituals and worship methods of Jagannath Puri, including the proper installation, consecration, and daily service of the deities.",
+  "managementHeading": "Temple Management",
+  "managementSubheading": "The operations of Bhagwan Jagannath Dham are sustained through devoted community support and transparent administration.",
+  "templeManagement": "All operations of the ‘Bhagwan Jagannath Dham’ Shiv Shakti Temple are managed under the guidance of a committee comprising colony residents and representatives from the Utkal Samaj. These are entirely supported through public donations, worship and offering materials, and other necessary items, with complete transparency in accounting. Receipts are issued for donations received from devotees. Donations are deposited into Account No. 12272151000764, Hiran Magri branch (Udaipur), and all expenses are paid by cheque. If materials are donated, receipts of equivalent value are issued, and details of such donations are recorded. At the end of each financial year, the accounts are audited by a chartered accountant. Major sources of income for the temple include offerings (bhog), donation boxes, festivals, the Ratha Yatra, and others. Major expenses include offerings, honorariums (for priests, gardeners, cleaning staff, etc.), festivals, Ratha Yatra, and others. Key sources of community support include colony residents, Utkal Samaj, and other devotees—some of whom are regular donors.",
+  "bhogHeading": "Daily Offerings (Bhog Seva)",
+  "bhogSubheading": "Daily offerings are prepared with purity in the temple kitchen and presented to Lord Jagannath as per sacred tradition.",
+  "bhog": "Specific offerings (bhog) are made to Lord Jagannath during morning and evening darshans. Cooked or prepared items from outside are not accepted; only raw ingredients are accepted and prepared in the temple's own kitchen. The day begins with a butter and sugar (makhan-mishri) offering and aarti, followed by fruit offerings. In the afternoon, a full meal offering is made, which includes rice, lentils, vegetables, kheer (sweet dish), etc. The Lord rests from 1:00 PM to 4:00 PM, after which darshans are again open until 10:00 PM. At sunset, fruits and aarti are offered, followed by the night offering (bhog), after which the Lord retires. Devotees may offer fruits, coconuts, dry fruits, milk, curd, butter, honey, ghee, etc., as prasadam items. Worship items like camphor, incense sticks, sandalwood paste, flowers, perfumes, dhoop, cotton wicks, and lamps may also be donated.",
+  "dressHeading": "Dress Seva",
+  "dressSubheading": "Each day, Lord Jagannath is adorned with divine attire of a designated color, lovingly offered by devotees.",
+  "dress": "Lord Jagannath is adorned daily with garments of specific colors assigned to each day of the week as follows: 1. Sunday – Red, 2. Monday – Purple, 3. Tuesday – Multicolor, 4. Wednesday – Green, 5. Thursday – Yellow, 6. Friday – White, 7. Saturday – Black. Devotees may offer dresses made according to the prescribed color, size, and design, or may contribute financially toward the same. Similarly, they may also donate flags (Dhwaja). Devotees can organize devotional events like Bhakti Sandhya or religious discourses within the temple premises. For such events, a contribution toward cleaning and temple arrangements is to be submitted to the management committee.",
+  "teamHeading": "Seva Committee",
+  "teamSubheading": "A dedicated group of individuals serving and managing Bhagwan Jagannath Dham with devotion.",
+  "team": [
+    {
+      "name": "Ghanshyam Paliwal",
+      "mobile": "7014326063",
+      "position": "President",
+      "org": "Gupteshwar Nagar Vikas Samiti"
+    },
+    {
+      "name": "Gajendra Sharma",
+      "mobile": "9828471012",
+      "position": "Coordinator",
+      "org": "Jagannath Dham Temple Committee"
+    },
+    {
+      "name": "Raja Ram Shah",
+      "mobile": "9413093612",
+      "position": "General Secretary",
+      "org": "Gupteshwar Nagar Vikas Samiti"
+    },
+    {
+      "name": "Rajendra Kumar Sharma",
+      "mobile": "9828113760",
+      "position": "Treasurer",
+      "org": "Gupteshwar Nagar Vikas Samiti"
+    },
+     {
+      "name": "Sunil Choubisa",
+      "mobile": "8769449822",
+      "position": "Pandit Ji",
+      "org": "Gupteshwar Nagar Vikas Samiti"
+    }
+  ],
+  "vistHeading": "Visit Shri Jagannath Dham",
+  "visitSubheading": "A divine journey awaits you",
+  "visitDescription": "Temple Location: The temple is situated in the southeastern part of Udaipur city, within the Hiran Magri region where new residential colonies like Sector 3, 4, 5, 6, 7, 8, 9 have developed. It lies in the heart of Gupteshwarnagar in the newly developed Sector 7 Housing Board Colony. Approximate distances from key landmarks:<br /> <ul><li> Udaipur City Railway Station – 5 km.</li> <li>Roadways Bus Stand – 5 km. </li> <li> Surajpole – 6 km. </li> <li> Chetak Circle – 8 km. </li> <li>Fatehpura – 10 km. </li> <li> Pratapnagar – 7 km. </li> <li> Sevashram Flyover – 4 km. </li> <li>Rana Pratap Nagar Railway Station – 5 km. </li> <li>Paras Tiraha – 4 km. </li></ul> <b>Note: Auto-rickshaw, and bus services are available from all these locations.</b>",
+  "findUsHeading": "Find Us at Shri Jagannath Dham",
+  "findUsSubheading": "We welcome you with devotion and divine grace at our sacred location in Udaipur.",
+  "findUsAdrsH": "Temple Address:",
+  "findUsAdrs": "Shri Jagannath Dham Sector 7 Udaipur, Rajasthan",
+  "findUsDis": "Located in the heart of Sector 7, Udaipur — where divinity meets devotion at Jagannath Dham.",
+  "donateHeading": "Support Shri Jagannath Dham",
+  "donateSubheading": "Your contribution helps preserve traditions and sustain daily worship at this sacred temple.",
+  "bankHeading": "Bank Details",
+  "bankNameLabel": "Bank Name:",
+  "bankName": "Punjab National Bank",
+  "branchLabel": "Branch:",
+  "branch": "Hiran Magri Sector-4, Udaipur",
+  "aNLabel": "Account Number:",
+  "accountNumber": "12273151000764",
+  "ifscCode": "PUNB0122710",
+  "whyDonateH": "Why Donate?",
+  "whyDonateSh": "Your donation supports temple upkeep, rituals, festivals, and ensures that the light of devotion continues to shine for generations to come.",
+  "whyDonate": "Your generous donations help sustain Shri Jagannath Dham — supporting daily rituals, temple upkeep, prasadam distribution, and community festivals. Each contribution aids in preserving traditional art, architecture, and spiritual practices. We also invest in cultural and educational programs for future generations. By donating, you become a part of a divine journey that keeps our heritage alive and thriving. Every rupee you offer nurtures devotion and strengthens our collective faith. Let your support become an offering of love and service to Lord Jagannath, inspiring countless others and illuminating lives through spiritual grace."
+}
