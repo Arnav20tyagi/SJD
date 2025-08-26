@@ -83,17 +83,17 @@
   "dailyEvents": [
     {
       "title": "Mangala Aarti",
-      "time": "5:30 AM",
+      "time": "4:00 AM",
       "details": "Attend the auspicious Mangala Aarti to begin your day with divine blessings."
     },
     {
       "title": "Darshan Closed for Shringar",
-      "time": "7:00 AM - 8:00 AM",
+      "time": "4:00 AM - 4:30 AM",
       "details": "Darshan will remain closed during the adornment (Shringar) of the deities."
     },
     {
       "title": "Shringar Darshan",
-      "time": "8:00 AM - 12:00 PM",
+      "time": "4:30 AM - 12:00 PM",
       "details": "Witness the beautifully adorned deities during the Shringar Darshan."
     },
     {
@@ -108,8 +108,13 @@
     },
     {
       "title": "Sandhya Aarti",
-      "time": "At Sunset",
+      "time": "7:15 PM - 7:30 PM",
       "details": "Join the Sandhya Aarti during sunset for spiritual upliftment."
+    },
+    {
+      "title": "Shayan Aarti",
+      "time": "9:30 PM - 9:40 PM",
+      "details": "Join the Shayan Aarti during sunset for spiritual upliftment."
     }
   ],
   "yearlyEvents": [
@@ -251,7 +256,7 @@
     "grainMarket1": "Grain Market (Gate No. 1)",
     "kisanBhavan": "Kisan Bhavan",
     "retiStand": "Reti Stand",
-    "shringarAarti": "Shringar Aarti",
+    "shringarAarti": "Shringar Aarti (12:30 - 1:00 PM)",
     "bhilRanaChauraha": "Bhil Rana Chauraha",
     "aavariMataTemple": "Aavari Mata Temple",
     "policeLine": "Police Line",
@@ -260,30 +265,30 @@
     "nagdaBhavanRoad": "Nagda Bhavan Road",
     "vakalMataChauraha": "Vakal Mata Chauraha",
     "guruVashishthChauraha": "Guru Vashishth Chauraha",
-    "shubhamFurniture": "Shubham Furniture",
+    "shubhamFurniture": "Shubham Furniture (Madri Tekri Road)",
     "hindRajTiraha": "Hind Raj Tiraha",
     "menariaGuestHouse": "Menaria Guest House",
     "hiranMagriMainRoad": "Hiran Magri Main Road",
     "dishaElectricals": "Disha Electricals",
     "yogeshTyres": "Yogesh Tyres",
     "guruNanakCollegeGate": "Guru Nanak Girls College Main Gate",
-    "oldSatelliteRoad": "Old Satellite Road",
+    "oldSatelliteRoad": "Old Satellite Road, Main Road Sec 4",
     "priyaishiBoutique": "Priyaishi Boutique",
     "mangleshwarTemple": "From Mangleshwar Mahadev Temple",
-    "mahaAarti": "Maha Aarti",
+    "mahaAarti": "Maha Aarti (7:30 PM - 8:00 PM)",
     "jhulelalBhavan": "Jhulelal Bhavan",
     "narayanSeva": "Narayan Seva Sansthan",
     "aryaSamajTemple": "In front of Arya Samaj Temple",
     "prabhatNagarRoad": "Prabhat Nagar Road",
     "ssCoaching": "SS Coaching",
     "vishalStore": "Vishal General Store",
-    "satelliteHospital": "Satellite Hospital",
+    "satelliteHospital": "Satellite Hospital, Sec 6",
     "siddhiVinayakHospital": "Siddhi Vinayak Hospital",
     "sabziMandi": "From Vegetable Market",
     "policeStation": "Police Station",
     "viaJadawNursery": "Via Jadaw Nursery",
     "backToJagannath": "Back to Jagannath Dham",
-    "finalMahaAarti": "Maha Aarti & Prasad Distribution"
+    "finalMahaAarti": "Maha Aarti & Prasad Distribution (10:30 PM - 11:00 PM)"
   },
   "rYDHeading": "The Sacred Story Behind the Ratha Yatra",
   "rYDPlace": "📍Shri Jagannath Dham Sector 7",
@@ -307,7 +312,7 @@
   "templeDescription": "At the Bhagwan Jagannath Dham Temple, the wooden (Mahadaru) idols of Lord Jagannath, Balabhadra, Subhadra, and Sudarshan—sourced from Puri (Odisha)—are enshrined. Alongside them are the incarnations of Varaha, Narasimha, Vamana, the sacred Neel Chakra, the gatekeepers Jaya and Vijaya, the Navagrahas, and Garuda. The temple follows the traditional rituals and worship methods of Jagannath Puri, including the proper installation, consecration, and daily service of the deities.",
   "managementHeading": "Temple Management",
   "managementSubheading": "The operations of Bhagwan Jagannath Dham are sustained through devoted community support and transparent administration.",
-  "templeManagement": "All operations of the ‘Bhagwan Jagannath Dham’ Shiv Shakti Temple are managed under the guidance of a committee comprising colony residents and representatives from the Utkal Samaj. These are entirely supported through public donations, worship and offering materials, and other necessary items, with complete transparency in accounting. Receipts are issued for donations received from devotees. Donations are deposited into Account No. 12272151000764, Hiran Magri branch (Udaipur), and all expenses are paid by cheque. If materials are donated, receipts of equivalent value are issued, and details of such donations are recorded. At the end of each financial year, the accounts are audited by a chartered accountant. Major sources of income for the temple include offerings (bhog), donation boxes, festivals, the Ratha Yatra, and others. Major expenses include offerings, honorariums (for priests, gardeners, cleaning staff, etc.), festivals, Ratha Yatra, and others. Key sources of community support include colony residents, Utkal Samaj, and other devotees—some of whom are regular donors.",
+  "templeManagement": "All operations of the ‘Bhagwan Jagannath Dham’ Shiv Shakti Temple are managed under the guidance of a committee comprising colony residents and representatives from the Utkal Samaj. These are entirely supported through public donations, worship and offering materials, and other necessary items, with complete transparency in accounting. Receipts are issued for donations received from devotees. Donations are deposited into the account of Bhagwan Jagannath Dham Shiv Shakti Mandir Samiti, Account No. 12272151000764, Punjab National Bank, Sector 4, Hiran Magri Branch (Udaipur). All expenses are paid by cheque.. If materials are donated, receipts of equivalent value are issued, and details of such donations are recorded. At the end of each financial year, the accounts are audited by a chartered accountant. Major sources of income for the temple include offerings (bhog), donation boxes, festivals, the Ratha Yatra, and others. Major expenses include offerings, honorariums (for priests, gardeners, cleaning staff, etc.), festivals, Ratha Yatra, and others. Key sources of community support include colony residents, Utkal Samaj, and other devotees—some of whom are regular donors.",
   "bhogHeading": "Daily Offerings (Bhog Seva)",
   "bhogSubheading": "Daily offerings are prepared with purity in the temple kitchen and presented to Lord Jagannath as per sacred tradition.",
   "bhog": "Specific offerings (bhog) are made to Lord Jagannath during morning and evening darshans. Cooked or prepared items from outside are not accepted; only raw ingredients are accepted and prepared in the temple's own kitchen. The day begins with a butter and sugar (makhan-mishri) offering and aarti, followed by fruit offerings. In the afternoon, a full meal offering is made, which includes rice, lentils, vegetables, kheer (sweet dish), etc. The Lord rests from 1:00 PM to 4:00 PM, after which darshans are again open until 10:00 PM. At sunset, fruits and aarti are offered, followed by the night offering (bhog), after which the Lord retires. Devotees may offer fruits, coconuts, dry fruits, milk, curd, butter, honey, ghee, etc., as prasadam items. Worship items like camphor, incense sticks, sandalwood paste, flowers, perfumes, dhoop, cotton wicks, and lamps may also be donated.",
@@ -330,7 +335,7 @@
       "org": "Jagannath Dham Temple Committee"
     },
     {
-      "name": "Raja Ram Shah",
+      "name": "RajaRam Shah",
       "mobile": "9413093612",
       "position": "General Secretary",
       "org": "Gupteshwar Nagar Vikas Samiti"

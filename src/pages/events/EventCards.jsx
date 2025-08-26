@@ -39,7 +39,7 @@ const EventCards = () => {
   const lang = i18n.language || 'en';
 
   const eventData = {
-  daily: Array.from({ length: 6 }, (_, i) => ({
+  daily: Array.from({ length: 7 }, (_, i) => ({
     title: t(`dailyEvents.${i}.title`),
     time: t(`dailyEvents.${i}.time`),
     details: t(`dailyEvents.${i}.details`),
@@ -49,7 +49,9 @@ const EventCards = () => {
       "/assets/events/darshan-daily.webp",
       "/assets/events/bhog.jpg",
       "/assets/events/darshan-evening.jpg",
-      "/assets/events/sandhya-aarti.jpg"
+      "/assets/events/sandhya-aarti.jpg",
+      "/assets/events/ARTI.jpg",
+
     ][i]
   })),
    yearly: Array.from({ length: 17 }, (_, i) => ({

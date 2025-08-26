@@ -30,7 +30,7 @@ const HomepageBanner = () => {
       title: bannerData[0]?.title,
       subtitle: bannerData[0]?.subheading,
       text: ["ऊँ नारायण जगन्नाथाय नम:", "ऊँ विश्वमूर्तये जगन्नाथाय नम:"],
-      // image: "/assets/home/slider-4.png",
+      image: "/assets/home/slider-4.png",
       bgColor: "#FE4246",
     },
     {
@@ -41,7 +41,7 @@ const HomepageBanner = () => {
         "नीलांचल निवासाय नित्याय परमात्मने।",
         "बलभद्र सुभद्राभ्याम् जगन्नाथाय ते नमः।।",
       ],
-      // image: "/assets/home/slider-1.png",
+      image: "/assets/home/slider-1.png",
       bgColor: "#2F4858",
     },
     {
@@ -49,7 +49,7 @@ const HomepageBanner = () => {
       title: bannerData[2]?.title,
       subtitle: bannerData[2]?.subheading,
       text: ["अनन्त इति किलकम् बलभद्र-प्रीति-अर्थे जपे विनियोगः। ॐ।"],
-      // image: "/assets/home/slider-2.png",
+      image: "/assets/home/slider-2.png",
       bgColor: "#FF9F59",
     },
     {

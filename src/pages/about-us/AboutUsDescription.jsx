@@ -13,7 +13,7 @@ const AboutUsDescription = () => {
   const sections = [
     {
       id: 1,
-      image: "/assets/about-us/description.jpg",
+      image: "/assets/media/main.jpg",
       details: t("templeDescription"),
     },
   ];

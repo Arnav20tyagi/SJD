@@ -1,18 +1,17 @@
 "use client";
-import React from "react";
-import {
-  Box,
-  Typography,
-  Grid,
-  Card,
-  CardContent,
-  useTheme,
-} from "@mui/material";
-import { motion } from "framer-motion";
-import SupervisorAccountIcon from "@mui/icons-material/SupervisorAccount";
-import GroupIcon from "@mui/icons-material/Group";
 import AccountBalanceWalletIcon from "@mui/icons-material/AccountBalanceWallet";
 import EmojiEventsIcon from "@mui/icons-material/EmojiEvents";
+import GroupIcon from "@mui/icons-material/Group";
+import SupervisorAccountIcon from "@mui/icons-material/SupervisorAccount";
+import SelfImprovementIcon from "@mui/icons-material/SelfImprovement"
+import {
+  Box,
+  Card,
+  CardContent,
+  Grid,
+  Typography,
+  useTheme,
+} from "@mui/material";
 import { useTranslation } from "react-i18next";
 import Heading from "../../components/Heading";
 import SubHeading from "../../components/SubHeading";
@@ -32,6 +31,8 @@ const getIcon = (position) => {
       );
     case "President":
       return <EmojiEventsIcon sx={{ fontSize: "5rem", color: "#4caf50" }} />;
+      case "Pandit Ji":
+        return <SelfImprovementIcon sx={{ fontSize: "5rem", color: "#4caf50" }} />;
     default:
       return null;
   }
@@ -65,6 +66,12 @@ const ContactUsPeople = () => {
       contact: t("team.3.mobile"),
       organization: t("team.3.org"),
     },
+    {
+      name: t("team.4.name"),
+      position: t("team.4.position"),
+      contact: t("team.4.mobile"),
+      organization: t("team.4.org"),
+    },
   ];
 
   return (
@@ -72,7 +79,7 @@ const ContactUsPeople = () => {
       <Heading title={t("teamHeading")} colorTheme="saffron" />
       <SubHeading title={t("teamSubheading")} gradientTheme="saffron" />
 
-      <Grid container spacing={4} justifyContent="center">
+      <Grid container spacing={4} justifyContent="center" >
         {people.map((person, index) => (
           <Grid item size={{ xs: 12, md: 6 }} key={person.name}>
               <Card
@@ -81,6 +88,7 @@ const ContactUsPeople = () => {
                   boxShadow: 3,
                   transition: "0.3s",
                   "&:hover": { boxShadow: 6 },
+                  backgroundColor: "#f0f4f8"
                 }}
               >
                 <CardContent sx={{ textAlign: "center" }}>
