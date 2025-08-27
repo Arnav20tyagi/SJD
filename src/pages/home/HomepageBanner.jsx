@@ -60,7 +60,7 @@ const HomepageBanner = () => {
         "नीलांचल निवासाय नित्याय परमात्मने।",
         "बलभद्र सुभद्राभ्याम् जगन्नाथाय ते नमः।।",
       ],
-      // image: "/assets/home/slider-3.png",
+      image: "/assets/home/slider-3.png",
       bgColor: "#7FC171",
     },
   ];
